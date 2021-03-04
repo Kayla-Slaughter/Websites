@@ -1,0 +1,21 @@
+.funny{
+    border: 3px groove blue;
+}
+header{
+    border: 3px groove black;
+}
+p{
+    border: 3px groove cyan;
+}
+#maskup{
+    width: 250px;
+}
+#dog03{
+    width: 330px;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
