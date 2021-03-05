@@ -1,0 +1,30 @@
+.center-box{
+    background-color: blue;
+    padding: 80px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.center-item{
+    background-color: blanchedalmond;
+    width: 80px;
+    height: 80px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+.container{
+    background-color: rgb(123, 203, 230);
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+img{
+    width: 70px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
